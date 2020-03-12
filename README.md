@@ -3,6 +3,6 @@
 
 The above example of web scraping exports the data into a CSV file, so you can even use a program like Excel to create charts, graphs, plots, and so on from your data.
 
-I will receive the information of the Graphic Card from this URL: "https://www.jib.co.th/web/pricelist/pricelist_main/51" look like below.
+I will receive the information from this URL: "https://www.settrade.com/C04_01_stock_quote_p1.jsp?txtSymbol=PTT&ssoPageId=9&selectPage=1" look like below.
 
-![get information form web](https://github.com/amornpan/Web-Scraping-With-Python/blob/master/2020-03-11_18-13-07.png)
+![get information form web](https://github.com/amornpan/Web-Scraping-With-Python/blob/master/Capture.PNG)
